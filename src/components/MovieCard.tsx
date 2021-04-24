@@ -10,6 +10,7 @@ interface MovieCardProps {
 }
 
 export function MovieCard(props: MovieCardProps) {
+  
   return (
     <div className="movie-card">
       <img
